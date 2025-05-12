@@ -54,8 +54,7 @@ $personajes = ModeloFormularios::obtenerPersonajes();
                     <td><?php echo htmlspecialchars($personaje["saga"]); ?></td>
                     <td><?php echo htmlspecialchars($personaje["especie"]); ?></td>
                     <td>
-                        <a href="index.php?pagina=ingreso&id=<?php echo $personaje['id']; ?>" class="btn btn-info">Editar</a> |
-                        <a href="vistas/paginas/editar.php?id=<?php echo $personaje["id"]; ?>">E/W</a> |
+                        <a href="index.php?pagina=ingreso&id=<?php echo $personaje['id']; ?>" class="btn btn-info">Editar</a> \|-3-|/
                         <a href="vistas/paginas/eliminar.php?id=<?php echo $personaje["id"]; ?>" class="btn btn-info" onclick="return confirm('¿Estás seguro de eliminar este personaje?')">Eliminar</a>
                     </td>
                 </tr>
