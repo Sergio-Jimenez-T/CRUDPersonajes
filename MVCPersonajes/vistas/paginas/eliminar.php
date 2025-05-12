@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $respuesta = ModeloFormularios::eliminarPersonaje($id);
 
     if ($respuesta === "ok") {
-        echo "<script>alert('Personaje eliminado correctamente'); window.location.href='../index.php';</script>";
+        echo "<script>alert('Personaje eliminado correctamente'); window.location.href='../../index.php';</script>";
         exit;
     } else {
         echo "<p>Error al eliminar el personaje.</p>";
