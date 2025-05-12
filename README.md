@@ -174,6 +174,3 @@ Hola, soy **Sergio Quetzal**, estudiante de Ingeniería en Sistemas Computaciona
 <a href="#contenido">🔝 Volver al índice</a>
 
 ```
-
-¿Te gustaría que lo divida en un archivo ya listo para copiar y pegar en tu proyecto?
-```
