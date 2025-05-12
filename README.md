@@ -55,7 +55,7 @@ Este proyecto consiste en un sistema web que permite **registrar, visualizar, ed
 
 1. Clonar o descomprimir el proyecto dentro de la carpeta `htdocs`.
 2. Acceder desde el navegador a:  
-   `http://localhost/Personajes`  
+   `http://localhost/MVCPersonajes`  
 
 <a href="#contenido">🔝 Volver al índice</a>
 
