@@ -1,6 +1,3 @@
-Perfecto, aquí tienes el contenido del README.md para tu nuevo proyecto “Gestión de Personajes de Videojuegos”, adaptado con base en el ejemplo que compartiste:
-
-```markdown
 # Proyecto Personajes de VideoJuegos
 
 ## Índice
