@@ -172,5 +172,3 @@ Este archivo usa PDO para conectarse a la base de datos y establecer el charset 
 Hola, soy **Sergio Quetzal**, estudiante de Ingeniería en Sistemas Computacionales con especialidad en desarrollo web. Me apasiona la creación de interfaces intuitivas, la gestión de bases de datos relacionales y el desarrollo de soluciones tecnológicas innovadoras. Siempre estoy abierto a nuevos aprendizajes y retos.
 
 <a href="#contenido">🔝 Volver al índice</a>
-
-```
