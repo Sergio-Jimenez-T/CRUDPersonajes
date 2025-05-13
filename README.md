@@ -42,8 +42,9 @@ Este proyecto consiste en un sistema web que permite **registrar, visualizar, ed
 
 ### 1. Configurar la base de datos
 
-1. Crear una base de datos llamada `personajes_db`.
-2. Importar el archivo `database.sql` desde phpMyAdmin o cualquier cliente MySQL.
+1. Crear una base de datos llamada `personajes_db` en la pagina de phpmyadmin que es la encargada de llevar a cabo la creacion de Bases de datos.
+2. Importar el archivo `videojuegos(1).sql` desde phpMyAdmin o cualquier cliente MySQL.
+3. Una vez el archivo .slq este implementado dentro de phpmyadmin entonces ya tendriamos nuestra BD agregada correctamente, tambien puedes crear una desde 0 y adapatarla al programa.
 
 ### 2. Configurar el servidor
 
